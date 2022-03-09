@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8925165791ac8bc5a253b1b13cb5fe841911db3ae184e5e73a8781773fb53e5d",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x8925165791ac8bc5a253b1b13cb5fe841911db3ae184e5e73a8781773fb53e5d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "HumanPals",
+  "SYMBOL": "HPNFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/humanpals",
+  "SHOW_BACKGROUND": true
+}
